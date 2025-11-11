@@ -82,7 +82,13 @@ Para iniciar el sistema, simplemente ejecuta:
 ```bash
 python main.py
 ```
+🔑 Datos de acceso para Administradores
 
+Usuario: admin
+
+Correo: admin@example.com
+
+Contraseña: admin123
 ---
 
 ## 🚀 Funcionalidades

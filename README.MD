@@ -118,10 +118,7 @@ Los administradores pueden:
 ---
 
 ## 👨‍💻 Autor
-
-Desarrollado por **[Tu Nombre Aquí]**  
-📧 Contacto: [tuemail@ejemplo.com]
-
+Desarrollado por **Sury Delgado Buste**  
 ---
 
 ## 🪪 Licencia

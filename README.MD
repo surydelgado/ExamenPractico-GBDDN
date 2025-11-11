@@ -118,9 +118,8 @@ Los administradores pueden:
 ---
 
 ## 👨‍💻 Autor
-Desarrollado por **Sury Delgado Buste**  
+Desarrollado por **Sury Delgado Buste** 
+4to Semestre 
 ---
 
-## 🪪 Licencia
 
-Este proyecto está bajo la licencia **MIT**.
